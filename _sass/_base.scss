@@ -36,6 +36,10 @@ a {
     }
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
 .container {
     @include outer-container;
     @include pad(2em);
@@ -49,14 +53,30 @@ a {
             font-size: 2em;
             color: $dark-blue;
             line-height: 1em;
+            margin-bottom: .25em;
             a {
                 text-decoration: none;
             }
         }
+        .post-meta {
+            color: $light-blue;
+            font-style: italic;
+        }
         .post-body {
             p {
-                line-height: 1.5em;
+                line-height: 1.3em;
             }
+            blockquote {
+                font-size: 1.25em;
+                font-weight: 200;
+                border-left: 4px solid $light-blue;
+                margin-left: 0;
+                padding-left: 1em;
+                color: $light-blue;
+            }
+        }
+        .next-link {
+            float: right;
         }
     }
 }
@@ -72,6 +92,9 @@ aside {
         color: $dark-blue;
         a {
             text-decoration: none;
+            &:visited {
+                color: $dark-blue;
+            }
         }
     }
     nav {
@@ -101,10 +124,28 @@ aside {
     }
 }
 
+.home {
+    .post-title {
+        a:visited {
+            color: $dark-blue;
+        }
+    }
+}
+
+.archive {
+    .post-link {
+        display: block;
+    }
+    .post-meta {
+        display: block;
+        font-size: .75em;
+    }
+}
+
 footer {
     background: $light-tan;
     color: $brown;
-    p.copyright {
+    p.copyright, p.rss-subscribe {
         text-align: center;
         font-size: .75em;
         a {
@@ -115,7 +156,7 @@ footer {
 
 @include media($small) {
     body {
-        font-size: 18px;
+        font-size: 19px;
     }
     .container {
         @include pad(1em);
