@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  "A song for New Years Eve"
-date:   2014-12-31 11:28:59
+title: A song for New Years Eve
+date: {}
+published: true
 ---
-This is the song for New Year’s Eve. I’ll listen to it 50-60 times, let it pull me through 2014 and into 2015… its perfect.
+
+[This is the song](https://www.youtube.com/watch?v=xhhyXdhhnY4) for New Year’s Eve. I’ll listen to it 50-60 times, let it pull me through 2014 and into 2015… its perfect.
 
 I picture people raising their glass to the days and months passed as the ball drops.
 
