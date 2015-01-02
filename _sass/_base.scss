@@ -1,0 +1,127 @@
+@import "normalize";
+@import "bourbon/bourbon";
+@import "grid-settings";
+@import "neat/neat";
+@import url(http://fonts.googleapis.com/css?family=Neuton:200,300,400,700,800,400italic);
+@import url(//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css);
+
+$dark-blue: #0A1659;
+$light-blue: #7C8AA6;
+$light-tan: #F2D3AC;
+$tan: #BF9969;
+$brown: #40260F;
+
+html {
+    border-top: 10px solid $dark-blue;
+    border-bottom: 10px solid $brown;
+}
+
+body {
+    border-top: 10px solid $light-blue;
+    border-bottom: 10px solid $tan;
+
+    font-family: 'Neuton', serif;
+    font-size: 22px;
+    color: #333333;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-weight: 700;
+}
+
+a {
+    color: $dark-blue;
+    &:hover, &:visited {
+        color: $light-blue;
+    }
+}
+
+.container {
+    @include outer-container;
+    @include pad(2em);
+}
+
+#content {
+    @include span-columns(8);
+
+    .post {
+        .post-title {
+            font-size: 2em;
+            color: $dark-blue;
+            line-height: 1em;
+            a {
+                text-decoration: none;
+            }
+        }
+        .post-body {
+            p {
+                line-height: 1.5em;
+            }
+        }
+    }
+}
+
+
+
+aside {
+    @include span-columns(3);
+    @include shift(1);
+    text-align: center;
+    .site-title {
+        font-weight: 400;
+        color: $dark-blue;
+        a {
+            text-decoration: none;
+        }
+    }
+    nav {
+        a {
+            display: block;
+            text-decoration: none;
+            color: inherit;
+            border-top: 1px solid $light-blue;
+            padding: .5em 0;
+            &:last-child {
+                border-bottom: 1px solid $light-blue;
+            }
+        }       
+    }
+    .social-links {
+        margin-top: 1.5em;
+        a {
+            color: $brown;
+            &:hover {
+                color: $tan;
+            }
+        }
+        i {
+            font-size: 1.5em;
+            margin-right: .25em;
+        }
+    }
+}
+
+footer {
+    background: $light-tan;
+    color: $brown;
+    p.copyright {
+        text-align: center;
+        font-size: .75em;
+        a {
+            color: inherit;
+        }
+    }
+}
+
+@include media($small) {
+    body {
+        font-size: 18px;
+    }
+    .container {
+        @include pad(1em);
+    }
+    #content, aside {
+        @include span-columns(4 of 4);
+        @include shift(0);
+    }   
+}
