@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "For a Leader"
-date:   2014-12-29 11:00:00
+title:  For a Leader
+published: true
 ---
 "May you have the grace and wisdom To act kindly, learning  
 To distinguish between what is Personal and what is not.  

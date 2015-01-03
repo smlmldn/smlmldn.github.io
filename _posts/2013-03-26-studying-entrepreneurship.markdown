@@ -1,7 +1,7 @@
 ---
 layout: post
+published: true
 title:  "Studying entrepreneurship without doing it"
-date:   2013-03-26 11:00:00
 ---
 > …is like studying the appreciation of music without listening to it.
 >

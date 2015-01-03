@@ -1,7 +1,6 @@
 ---
 layout: post
 title: A song for New Years Eve
-date: 2014-12-31 11:28:59
 published: true
 ---
 
