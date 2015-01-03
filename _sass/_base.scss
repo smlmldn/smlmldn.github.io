@@ -25,8 +25,13 @@ body {
     color: #333333;
 }
 
-h1,h2,h3,h4,h5,h6 {
+h1 {
     font-weight: 700;
+}
+
+h2,h3,h4,h5,h6 {
+    font-weight: 300;
+    color: $light-blue;
 }
 
 a {
@@ -40,6 +45,15 @@ img {
     max-width: 100%;
     height: auto;
 }
+
+hr {
+    height: 1px;
+    width: 75%;
+    background: $light-blue;
+    margin: 2em auto;
+    border: none;
+}
+
 .container {
     @include outer-container;
     @include pad(2em);
@@ -63,6 +77,9 @@ img {
             font-style: italic;
         }
         .post-body {
+            padding-bottom: 1em;
+            border-bottom: 1px solid $light-blue;
+            margin-bottom: 2em;
             p {
                 line-height: 1.3em;
             }
@@ -107,6 +124,9 @@ aside {
             &:last-child {
                 border-bottom: 1px solid $light-blue;
             }
+            &:visited {
+                color: $dark-blue;
+            }
         }       
     }
     .social-links {
@@ -133,11 +153,18 @@ aside {
 }
 
 .archive {
-    .post-link {
-        display: block;
+    .archive-list {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        li {
+            padding: .25em .5em;
+        }
+        li:nth-child(2n) {
+            background: lighten($light-blue, 40%);
+        }
     }
-    .post-meta {
-        display: block;
+    .post-link, .post-meta {
         font-size: .75em;
     }
 }
