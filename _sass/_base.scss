@@ -2,7 +2,7 @@
 @import "bourbon/bourbon";
 @import "grid-settings";
 @import "neat/neat";
-@import url(http://fonts.googleapis.com/css?family=Neuton:200,300,400,700,800,400italic);
+@import url(http://fonts.googleapis.com/css?family=Neuton:200,300,400,700,800,400italic|Oswald:700);
 @import url(//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css);
 
 $dark-blue: #0A1659;
@@ -105,7 +105,10 @@ aside {
     @include shift(1);
     text-align: center;
     .site-title {
-        font-weight: 400;
+        line-height: 1.1em;
+        text-transform: uppercase;
+        font-size: 2.25em;
+        font-family: 'Oswald', sans-serif;
         color: $dark-blue;
         a {
             text-decoration: none;
@@ -140,6 +143,15 @@ aside {
         i {
             font-size: 1.5em;
             margin-right: .25em;
+        }
+    }
+    #instafeed {
+        a img {
+            display: inline-block;
+            width: 48%;
+        }
+        a:nth-child(1n) img {
+            margin-left: 4px;
         }
     }
 }

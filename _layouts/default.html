@@ -22,10 +22,31 @@
   
   <script src='//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js'></script>
   <script src='//cdnjs.cloudflare.com/ajax/libs/fitvids/1.1.0/jquery.fitvids.min.js'></script>
+  <script src='/js/instafeed.min.js'></script>
   <script>
     $(document).ready(function(){
       $("article").fitVids();
     });
+    
+    var feed = new Instafeed({
+        get: 'user',
+        userId: 12810126,
+        accessToken: '12810126.467ede5.5dab054c46b24524be0285679cf2bf92',
+        resolution: 'standard_resolution',
+        limit: 6
+    });
+    feed.run();
+  </script>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-58171776-1', 'auto');
+    ga('send', 'pageview');
+
   </script>
 
 </html>
