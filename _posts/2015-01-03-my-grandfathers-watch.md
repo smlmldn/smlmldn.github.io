@@ -8,7 +8,7 @@ I wear my grandfather’s watch.
 
 It’s an Accutron from Bulova with a simple gold face. The underside has his name, Don Roepke, engraved along with dates that mark 25 years of service at the factory where he worked. My mother gave it to me just after he passed away in September 2013.
 
-Melden, Sam_HeadshotAt first I couldn’t figure out how to make the days of the week line up with the date. The clear, quartz cover was very scratched and even had a small crack in it. I got that fixed. I also replaced the golden, stretchy metal band with one made of brown leather. It’s not worth hundreds of dollars, but it’s a nice watch and it means a lot to me.
+At first I couldn’t figure out how to make the days of the week line up with the date. The clear, quartz cover was very scratched and even had a small crack in it. I got that fixed. I also replaced the golden, stretchy metal band with one made of brown leather. It’s not worth hundreds of dollars, but it’s a nice watch and it means a lot to me.
 
 But you know, even with all the tweaks and changes I’ve made, there is still this sense that I am wearing Grandpa’s watch. I didn’t get a new watch. It was someone else’s and now I simply look after it. And, if I can take care of it, keep it clean and working, I might be able to pass it on one day, too. I have been thinking recently; my grandpa’s watch reminds me of the mindset of really great leaders.
 
