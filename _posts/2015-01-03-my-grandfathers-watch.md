@@ -31,3 +31,6 @@ Owners use, spend and consume their way forward. Stewards preserve, share and co
 Stewardship is tantamount to good leadership. And at The Center for Servant Leadership, we believe understanding yourself as a steward, not an owner, of the influence, power and status you currently hold is a key step in becoming a servant leader. This is an aspect of our work: teaching leaders how to uncover stewardship in their lives.
 
 Stewardship is inspiring. When I do finally hand off grandpa’s watch to the next person, they will understand that it was given to me and now I give it to them. It is not theirs to own. They are simply looking after it for a time.
+
+
+*Originally written for the Toledo Free Press. Find the article [here.](http://www.toledofreepress.com/2015/01/03/melden-my-grandfathers-watch/)*
