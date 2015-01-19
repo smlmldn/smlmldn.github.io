@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title: ""
+title: "\"One of the highest forms of love\""
 ---
 
 ![John Lewis](http://aattp.org/wp-content/uploads/2013/08/gty_john_lewis_dm_120314_wmain.jpg)
