@@ -10,7 +10,7 @@ My friend posted that Oliver quote with a picture of her snow covered front yard
 
 Then, I have this other friend who is a journalist and she was experiencing this snowy day quite differently. Under a Level 3 snow emergency she still has to go to work. She has to go outside, carve and chisel her way out of her driveway and then drive in terrible conditions to get to the job. Because, her line of work is considered "essential." And the rules are: under a Level 3 all "non-essential" employees have to stay home. Non-essential. I love that someone decided to use that language to describe who should and shouldn't be on the roads under such conditions. 
 
-Because, sometimes, we _all_ need to be reminded we are **not  essential.**
+Because, sometimes, we _all_ need to be reminded we are **not  essential**.
 
 The goals, ideas and projects we are all working on can wait. The mad rush of a Monday morning can always be brought to a halt. Your hustle can be slowed. Your emails can pile up. Your deadlines can be bent. Your calendar can be shuffled. All of those tasks, those very important & essential to do's... just aren't that important and essential. 
 
