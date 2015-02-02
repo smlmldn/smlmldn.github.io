@@ -14,7 +14,7 @@ Because, sometimes, we _all_ need to be reminded we are **not  essential**.
 
 The goals, ideas and projects we are all working on can wait. The mad rush of a Monday morning can always be brought to a halt. Your hustle can be slowed. Your emails can pile up. Your deadlines can be bent. Your calendar can be shuffled. All of those tasks, those very important & essential to do's... just aren't that important and essential. 
 
-Don't get me wrong, I love to juggle to do's like a circus clown. I love lining up calendars and plotting out tasks. My video game of choice is "Inbox Zero." I love to be productive, effecient, blah, blah blah. Which is why this reminder is so important. The work I do, the stuff on my "plate" is not nearly as essential as I think it is. 
+Don't get me wrong, I love to juggle to do's like a circus clown. I love lining up calendars and plotting out tasks. My video game of choice is "Inbox Zero." I love to be productive, efficient, blah, blah blah. Which is why this reminder is so important. The work I do, the stuff on my "plate" is not nearly as essential as I think it is. 
 
 And, one more thing... this reminder about being non-essential also brings a wonderful invitation. When the world shuts down around us we are given the opportunity to attend to the work within us. The work that _is_ essential. 
 
