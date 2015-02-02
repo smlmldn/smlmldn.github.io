@@ -4,7 +4,7 @@ published: true
 title: "Non-essential"
 ---
 
-## > "Today I'm flying low and I'm not saying a word. I'm letting all the voodoos of ambition sleep." - Mary Oliver. 
+## "Today I'm flying low and I'm not saying a word. I'm letting all the voodoos of ambition sleep." - Mary Oliver. 
 
 My friend posted that Oliver quote with a picture of her snow covered front yard this morning. It's a beautiful scene with a wonderful quote. 
 
