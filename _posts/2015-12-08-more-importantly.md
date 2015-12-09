@@ -8,7 +8,6 @@ Yesterday the Speaker of the House, Paul Ryan, came out and directly commented o
 
 ![lead_large.jpg]({{site.baseurl}}/img/lead_large.jpg)
 
-
 Did you catch that? It’s tucked away, but it’s there. He said “more importantly.” He said it is more important that what Trump is talking about completely violates the set of values that the entire country upholds. Ryan said there is a set of values, principles, a way of seeing the world that is more important than what his party stands for. 
 
 Can you imagine? 
