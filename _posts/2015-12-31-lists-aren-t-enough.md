@@ -48,4 +48,4 @@ I love this time of year. Here’s to a fantastic 2016!
 
 
 
-Also, if you took the time to read this, I want to say… Thank you. I appreciate it. And, I would definitely suggest you read this as well, and perhaps subscribe to everything that comes from On Being. It’s a wonderful source.
+_Also, if you took the time to read this, I want to say… Thank you. I appreciate it. And, I would definitely suggest you read [this as well](http://www.onbeing.org/blog/parker-palmer-my-five-new-years-revolutions/8290#.VoQVFkagSCB.twitter), and perhaps subscribe to everything that comes from On Being. It’s a wonderful source._
