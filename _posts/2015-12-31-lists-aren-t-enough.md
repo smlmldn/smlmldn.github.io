@@ -40,7 +40,6 @@ What is your biggest regret from 2015?
 
 How will you prevent a repeat in 2016?
 
-And on and on and on it goes.
 
 We can talk about who made the best movie, or who’s album was better — but what does that have to do with you? Reflection is about making space to look at yourself. And with another year in the books there is a lot to take in.
 
