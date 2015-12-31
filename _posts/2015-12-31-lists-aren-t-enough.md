@@ -8,9 +8,9 @@ I love this time of year.
 
 The week between Christmas and the first day of the New Year is special. Its unwritten sacredness lets everyone get a moment to refresh. We all need to recalibrate a bit. People vacation at different times, even celebrate holidays differently, but for the most part… we all shut down between Christmas and the New Year. It’s wonderful and needed.
 
-What isn’t needed is another list of the best music, movies, internet meme or even a list looking back at the best lists.
+What we don't need, however, is another list. A list of the best music, movies, internet memes or even lists looking back at the best lists.
 
-You’ve seen these lists, right? All over the internet, for the sake of advertising, everyone is looking back and keeping score. We are rating our experiences. Artists and entrepreneurs alike have spent months and years creating their offering and at the end of a calendar year people will sum it up in a few sentences and try to compare this app to that one… all for the sake of the list. Well, lists aren’t enough.
+You’ve seen these lists, right? All over the internet, for the sake of advertising, everyone is looking back and keeping score. We are rating our experiences. Artists and entrepreneurs alike have spent months and years creating and crafting something to offer and at the end of a calendar year people will sum it up in a few sentences and try to compare this app to that one… all for the sake of the list. Well, lists aren’t enough.
 
 Lists aren’t the gateway to true reflection. And reflection is the invitation of this week. Lists attempt to trivialize looking back. When we sum up the past year in effort to try to rank our experiences we cheat ourselves.
 
