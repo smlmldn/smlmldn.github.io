@@ -12,7 +12,7 @@ What we don't need, however, is another list. A list of the best music, movies, 
 
 You’ve seen these lists, right? All over the internet, for the sake of advertising, everyone is looking back and keeping score. We are rating our experiences. Artists and entrepreneurs alike have spent months and years creating and crafting something to offer and at the end of a calendar year people will sum it up in a few sentences and try to compare this app to that one… all for the sake of the list. Well, lists aren’t enough.
 
-Lists aren’t the gateway to true reflection. And reflection is the invitation of this week. Lists attempt to trivialize looking back. When we sum up the past year in effort to try to rank our experiences we cheat ourselves.
+Lists aren’t the gateway to true reflection. And reflection is the invitation of this week. Lists attempt to trivialize looking back. When we sum up the past year so we can rank our experiences we cheat ourselves.
 
 Reflection isn’t a consumer good.
 
