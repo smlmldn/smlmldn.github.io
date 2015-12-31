@@ -23,13 +23,21 @@ Then the New Year arrives. And all we want to do, and all we should do… is loo
 We all want to know what our “Best” Nine Instagram photos were for 2015. I get it. But what if we asked a few more questions?
 
 Who did you learn the most from last year?
+
 How are you a different co-worker? A different boss?
+
 Did you lose someone dear to you recently?
+
 How are you better for having known them?
+
 How are you better toward those you know now because you lost them?
+
 What was your biggest victory? Biggest defeat?
+
 How were those two experiences similar?
+
 What is your biggest regret from 2015?
+
 How will you prevent a repeat in 2016?
 
 And on and on and on it goes.
