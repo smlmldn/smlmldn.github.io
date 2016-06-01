@@ -14,7 +14,7 @@ I also believe that “Why?” is a better question than “What?” And, so oft
 
 So, why a podcast? Two questions and another belief…
 
-Seth Godin asks 2 questions when starting something new I find extremely challenging and helpful. 1) Is it Generous? 2) Can it fail?  - My hope is that this is a generous endeavor. I simply want to share these conversations I always find myself in and share them and watch them grow into new and deeper connections and ideas for more people around me. That sounds quite exciting. And, I know this could fail. 
+Seth Godin asks 2 questions when starting something new I find extremely challenging and helpful. 1) Is it Generous? 2) Can it fail?  - My hope is that this is a generous endeavor. I simply want to share these conversations I always find myself in and share them and watch them grow into new and deeper connections and ideas for more people around me. That sounds quite exciting. And, of course... I know this could fail. 
 
 Also, I believe technology is a tool to serve our greatest goals and deepest desires. So, I asked myself, how can technology help me share conversations there were many different options. What I have here, is the simplest and most sustainable option for me. I’m not an audio engineer, I don’t have a studio and know just enough to be dangerous with Garage Band. A few friends helped me with the intro & podcast set up and now I can take it from here. Record phone calls, ask good questions, share the conversations. Pretty simple. 
 
