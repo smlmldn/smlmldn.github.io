@@ -18,6 +18,6 @@ Seth Godin asks 2 questions when starting something new I find extremely challen
 
 Also, I believe technology is a tool to serve our greatest goals and deepest desires. So, I asked myself, how can technology help me share conversations there were many different options. What I have here, is the simplest and most sustainable option for me. I’m not an audio engineer, I don’t have a studio and know just enough to be dangerous with Garage Band. A few friends helped me with the intro & podcast set up and now I can take it from here. Record phone calls, ask good questions, share the conversations. Pretty simple. 
 
-You can find A Call From [here on iTunes](https://itunes.apple.com/us/podcast/a-call-from.../id1118721503?mt=2# ). Or here on[Soundcloud](https://soundcloud.com/acallfrom) 
+You can find A Call From [here on iTunes](https://itunes.apple.com/us/podcast/a-call-from.../id1118721503?mt=2# ). Or here on [Soundcloud](https://soundcloud.com/acallfrom) 
 
 PS -  I spent a few minutes on launch day live streaming on FB to talk about it… [You can watch that here.](https://www.facebook.com/1295922995/videos/10208961503296905/?pnref=story)
