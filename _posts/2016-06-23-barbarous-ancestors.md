@@ -17,7 +17,7 @@ Please forgive me if I don't buy into the myth of redemptive violence. I'm not d
 
 As a society we grow, and evolve. We gain new understandings and new insights. And then we need leaders to stand up and hear the call. We need leaders who are willing to risk their political approval for the sake of the marginalized. The coat from our boyhood doesn't fit anymore... time for something new.
 
-[IMG_1637.JPG]({{site.baseurl}}/img/IMG_1637.JPG)
-({{site.baseurl}}/img/IMG_1637.JPG)
+![IMG_1637.JPG]({{site.baseurl}}/img/IMG_1637.JPG)
+
 
 
