@@ -3,6 +3,7 @@
 @import "grid-settings";
 @import "neat/neat";
 @import url(http://fonts.googleapis.com/css?family=Neuton:200,300,400,700,800,400italic|Oswald:700);
+@import url("https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css");
 
 $dark-blue: #0A1659;
 $light-blue: #7C8AA6;
@@ -200,7 +201,7 @@ footer {
   padding-bottom: 1em;
   border-bottom: 1px solid $light-blue;
   margin-bottom: 1em;
-  
+
   .podcast-art {
     @include span-columns(2 of 8);
   }
