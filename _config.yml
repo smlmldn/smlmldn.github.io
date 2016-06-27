@@ -21,11 +21,11 @@ markdown: kramdown
 sass:
   style: :compressed
 defaults:
-  - scope:
-    path: ""
-    type: podcasts
+  -
+    scope:
+      type: podcasts
   values:
-    layout: podcast
+    layout: "podcast"
     episode: ""
     soundcloudID: ""
 prose:
