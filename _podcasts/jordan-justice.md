@@ -1,7 +1,6 @@
 ---
-layout: podcast
-published: true
 title: Jordan Justice
+layout: podcast
 episode: 2
 soundcloudID: 266410591
 ---

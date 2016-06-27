@@ -1,7 +1,6 @@
 ---
-layout: podcast
-published: true
 title: Kevin Mullan
+layout: podcast
 episode: 2
 soundcloudID: 266409163
 ---
