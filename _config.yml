@@ -13,6 +13,12 @@ markdown: kramdown
 sass:
   style: :compressed
 
+collections:
+  podcasts:
+    output: true
+    permalink: /acallfrom/:path/
+
+
 prose:
   rooturl: '_posts'
   siteurl: 'http://samuelmelden.com'
