@@ -1,6 +1,7 @@
 ---
 title: Adam Mahler
-date: 2016-05-29 00:00:00 Z
+date: 2016-05-28 20:00:00 -04:00
+position: 1
 episode: 3
 soundcloudID: 266412053
 layout: podcast
