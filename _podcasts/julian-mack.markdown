@@ -1,7 +1,7 @@
 ---
 title: Julian Mack
 date: 2016-06-13 15:26:00 -04:00
-episode: 
+episode: 6
 soundcloudID: https://w.soundcloud.com/player/?url=https%3A
 layout: podcast
 ---
