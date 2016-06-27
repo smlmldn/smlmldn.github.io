@@ -20,6 +20,14 @@ permalink: pretty
 markdown: kramdown
 sass:
   style: :compressed
+defaults:
+  - scope:
+    path: ""
+    type: podcasts
+  values:
+    layout: podcast
+    episode: ""
+    soundcloudID: ""
 prose:
   rooturl: _posts
   siteurl: http://samuelmelden.com
