@@ -1,7 +1,7 @@
 ---
+title: Non-essential
+date: 2015-02-02 00:00:00 Z
 layout: post
-published: true
-title: "Non-essential"
 ---
 
 ## "Today I'm flying low and I'm not saying a word. I'm letting all the voodoos of ambition sleep." - Mary Oliver. 

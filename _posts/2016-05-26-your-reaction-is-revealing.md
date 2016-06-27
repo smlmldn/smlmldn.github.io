@@ -1,8 +1,9 @@
 ---
-layout: post
-published: true
 title: Your reaction is revealing
+date: 2016-05-26 00:00:00 Z
+layout: post
 ---
+
 Why are we so drawn to the sinking ship? When the conversation goes downhill, and the comments start to turn south, why do we try to jump on like its the last time down the sledding hill?
 
 Why is it easier to join the negativity, and engage with the lazy cynic instead of holding our ground and considering that we might have something to learn, or even at the very least something new to encounter?

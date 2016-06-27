@@ -1,7 +1,7 @@
 ---
-layout: post
-published: true
 title: More Importantly
+date: 2015-12-09 00:00:00 Z
+layout: post
 ---
 
 Yesterday the Speaker of the House, Paul Ryan, came out and directly commented on the ridiculous, hateful and dangerous ideas we are all seeing spewed from Donald Trump these days. He said, “This is not conservatism. What was proposed yesterday is not what this party stands for, and more importantly, not what this country stands for.”

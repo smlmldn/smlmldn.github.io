@@ -1,9 +1,8 @@
 ---
-layout: post
-published: true
 title: What we talk about when we talk about Politics
+date: 2015-11-17 00:00:00 Z
+layout: post
 ---
-
 
 ## Political conversations go a lot of different directions. Not just left or right, but often these conversations can head toward darkness or toward the light.
 

@@ -1,35 +1,38 @@
-# Site settings
+---
 title: Samuel Melden
-description: > # this means to ignore newlines until "baseurl:"
-  Sam is the Executive Director at The Center for Servant Leadership, a neighbor & co-organizer with Sylvania Avenue Neighbors,
-  a parishioner at St. Andrew’s Episcopal Church and a proud and passionate citizen of Toledo, OH.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://samuelmelden.com" # the base hostname & protocol for your site
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+description: |
+  Sam is the Executive Director at The Center for Servant Leadership, a neighbor & co-organizer with Sylvania Avenue Neighbors, a parishioner at St. Andrew’s Episcopal Church and a proud and passionate citizen of Toledo, OH.
+baseurl: ''
+url: http://samuelmelden.com
 permalink: pretty
-
-# Build settings
 markdown: kramdown
-
 sass:
   style: :compressed
-
 prose:
-  rooturl: '_posts'
-  siteurl: 'http://samuelmelden.com'
-  media: 'img'
+  rooturl: _posts
+  siteurl: http://samuelmelden.com
+  media: img
   metadata:
     _posts:
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-          value: ""
-      - name: "published"
-        field:
-          element: "checkbox"
-          label: "Published"
-          value: "true"
+    - name: layout
+      field:
+        element: hidden
+        value: post
+    - name: title
+      field:
+        element: text
+        label: Title
+        value: ''
+    - name: published
+      field:
+        element: checkbox
+        label: Published
+        value: 'true'

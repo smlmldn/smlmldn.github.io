@@ -1,7 +1,7 @@
 ---
+title: Lists Aren't Enough
+date: 2015-12-31 00:00:00 Z
 layout: post
-published: true
-title: "Lists Aren't Enough"
 ---
 
 I love this time of year.

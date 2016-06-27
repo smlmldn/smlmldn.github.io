@@ -1,7 +1,7 @@
 ---
-layout: post
-published: true
 title: My Grandfather’s Watch
+date: 2015-01-03 00:00:00 Z
+layout: post
 ---
 
 I wear my grandfather’s watch.

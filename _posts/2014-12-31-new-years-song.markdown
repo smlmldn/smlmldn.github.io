@@ -1,7 +1,7 @@
 ---
-layout: post
 title: A song for New Years Eve
-published: true
+date: 2014-12-31 00:00:00 Z
+layout: post
 ---
 
 [This is the song](https://www.youtube.com/watch?v=xhhyXdhhnY4) for New Year’s Eve. I’ll listen to it 50-60 times, let it pull me through 2014 and into 2015… its perfect.

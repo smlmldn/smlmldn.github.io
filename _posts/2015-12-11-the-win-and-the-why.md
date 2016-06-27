@@ -1,9 +1,8 @@
 ---
-layout: post
-published: true
 title: The Win and the Why
+date: 2015-12-11 00:00:00 Z
+layout: post
 ---
-
 
 The thirst for competition and victory are fueled by our values, not the other way around. We can not afford to fish for values and fabricate conviction simply because it helps us win. Because, in the long haul, we will not win.
 

@@ -1,7 +1,7 @@
 ---
+title: What is our next step?
+date: 2016-01-03 00:00:00 Z
 layout: post
-published: true
-title: "What is our next step?"
 ---
 
 ## Often when writing about politics, it feels like I’m simply writing about leadership. 
