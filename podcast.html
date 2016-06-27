@@ -6,7 +6,8 @@ layout: default
 
 <div class="podcast">
 
-    {% for podcast in site.podcasts | sort: 'episode' %}
+    {% assign podcasts = site.podcasts | sort: 'episode' | reverse %}
+    {% for podcast in podcasts %}
          <h1 class='post-title'>
          	<a class="post-link" href="{{ podcast.url | prepend: site.baseurl }}">{{ podcast.title }}</a>
          </h1>
