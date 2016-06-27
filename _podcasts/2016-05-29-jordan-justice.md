@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: podcast
 published: true
 title: Jordan Justice
 episode: 02

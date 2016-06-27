@@ -8,7 +8,10 @@ layout: default
 
 <span class="post-meta">{{ page.date | date: "%b %-d, %Y" }}</span>
 
-<article class='post-body'>{{ content }}</article>
+<article class='post-body'>
+  {{ content }}
+  <iframe width="100%" height="100" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ page.soundcloudID }}&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+</article>
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
@@ -28,7 +31,7 @@ layout: default
 <div id='pagination'>
 
   {% if page.previous != null %}
-    <a href="{{ page.previous.url }}" class="previous-link">&laquo; Previous Post</a>
+    <a href="{{ page.previous.url }}" class="previous-link">&laquo; Previous Episode</a>
   {% else %}
 
   {% endif %}
@@ -36,7 +39,7 @@ layout: default
 
 
   {% if page.next != null %}
-    <a href="{{ page.next.url }}" class="next-link">Next Post &raquo;</a>
+    <a href="{{ page.next.url }}" class="next-link">Next Episode &raquo;</a>
   {% else %}
 
   {% endif %}
