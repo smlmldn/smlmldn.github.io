@@ -6,6 +6,11 @@ layout: default
 
 <div class="podcast">
 
+  <div class="podcast-header">
+    <img src="/img/acallfrom.png" alt="A Call From..." class="podcast-art">
+    <p class="podcast-description">A podcast where I talk to various people in the greater Toledo community working in their own incredible way to propel the common good in our city. Oh, and it's all from phone conversations. It's called #ACallFrom. I hope you enjoy.</p>
+  </div>
+
     {% assign podcasts = site.podcasts | sort: 'episode' | reverse %}
     {% for podcast in podcasts %}
          <h1 class='post-title'>

@@ -3,7 +3,6 @@
 @import "grid-settings";
 @import "neat/neat";
 @import url(http://fonts.googleapis.com/css?family=Neuton:200,300,400,700,800,400italic|Oswald:700);
-@import url(//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css);
 
 $dark-blue: #0A1659;
 $light-blue: #7C8AA6;
@@ -133,7 +132,7 @@ aside {
             &:visited {
                 color: $dark-blue;
             }
-        }       
+        }
     }
     .social-links {
         margin-top: 1.5em;
@@ -196,6 +195,21 @@ footer {
     }
 }
 
+.podcast-header {
+  @include span-columns(8 of 8);
+  padding-bottom: 1em;
+  border-bottom: 1px solid $light-blue;
+  margin-bottom: 1em;
+  
+  .podcast-art {
+    @include span-columns(2 of 8);
+  }
+  .podcast-description {
+    @include span-columns(6 of 8);
+    margin-top: 0;
+  }
+}
+
 @include media($small) {
     body {
         font-size: 19px;
@@ -206,5 +220,5 @@ footer {
     #content, aside {
         @include span-columns(4 of 4);
         @include shift(0);
-    }   
+    }
 }
