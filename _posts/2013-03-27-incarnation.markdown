@@ -1,7 +1,7 @@
 ---
+title: Incarnation
+date: 2013-03-27 00:00:00 Z
 layout: post
-published: true
-title:  "Incarnation"
 ---
 
 *...He wrote the music, he wrote the words, thats... Elmo’s... [Song!](http://www.youtube.com/watch?v=vSYadh2xmcI)*

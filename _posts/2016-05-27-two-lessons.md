@@ -1,8 +1,9 @@
 ---
-layout: post
-published: true
 title: Two lessons
+date: 2016-05-27 00:00:00 Z
+layout: post
 ---
+
 Almost from day 1, the Democratic presidential candidates bragged about their civility with one another. Compared to the Republicans, acting like school boys on the playground, they were upstanding citizens here to “talk about the issues.”  
 
 Just a few months later the Republicans are having meetings aimed at compromise. They have hopes for a united front. And it’s the Democrats fearing a drama-filled convention that only increases the perception of a divided party. 

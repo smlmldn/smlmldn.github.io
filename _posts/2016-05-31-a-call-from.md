@@ -1,7 +1,7 @@
 ---
-layout: post
-published: true
 title: A Call From...
+date: 2016-05-31 00:00:00 Z
+layout: post
 ---
 
 Why am I doing this? Why start a podcast? While the first Episode with Kevin was meant to share the thoughts behind this project, I wanted to share a bit more here.
