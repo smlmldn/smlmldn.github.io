@@ -2,6 +2,10 @@
 title: Samuel Melden
 timezone: UTC
 collections:
+  podcasts:
+    title: Podcasts
+    output: true
+    permalink: "/acallfrom/:path/"
   posts:
     title: Posts
     output: true
@@ -16,12 +20,6 @@ permalink: pretty
 markdown: kramdown
 sass:
   style: :compressed
-
-collections:
-  podcasts:
-    output: true
-    permalink: /acallfrom/:path/
-
 prose:
   rooturl: _posts
   siteurl: http://samuelmelden.com
