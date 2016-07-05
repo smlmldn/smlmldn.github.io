@@ -1,7 +1,6 @@
 ---
 title: Drew Ruiz
 date: 2016-07-05 09:01:00 -04:00
-published: false
 episode: 13
 soundcloudID: 272270755
 layout: podcast
