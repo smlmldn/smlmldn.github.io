@@ -1,6 +1,5 @@
 ---
 title: Adam Levine
-date: 2016-07-12 05:00:00 -04:00
 episode: 14
 soundcloudID: 273244497
 layout: podcast
