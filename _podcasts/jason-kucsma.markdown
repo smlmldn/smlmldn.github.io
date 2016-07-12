@@ -1,6 +1,5 @@
 ---
 title: Jason Kucsma
-date: 2016-07-12 05:05:00 -04:00
 episode: 15
 soundcloudID: 273246369
 layout: podcast
