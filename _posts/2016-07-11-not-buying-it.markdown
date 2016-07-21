@@ -5,6 +5,7 @@ layout: post
 ---
 
 Yesterday I went to the Action is NOW community round table discussion at the Frederick Douglass Center. The unity in the room was inspiring, the stories were significant and the call to action was challenging. And... I walked away feeling so committed to erase lines, to collaborate, to work together and support the work already being done. That was one of the main messages.
+
 I also walked away feeling more strongly committed to act on my belief, not just say, that Black Lives Matter. I am inspired by people I heard speak yesterday. My friend Reggie Williams poured out his heart in that space. When said he was tired I knew I had to spend my energy to help hold his arms up. I've never felt his tired. So, I'll be taking small steps to move forward on support and action and change. Man, just so much to reflect on from that gathering.
 
 ![13606465_1652341211751121_3037672258269696597_n.jpg](/uploads/13606465_1652341211751121_3037672258269696597_n.jpg)
