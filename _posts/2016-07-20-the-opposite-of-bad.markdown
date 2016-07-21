@@ -1,6 +1,7 @@
 ---
 title: The Opposite Of Bad
 date: 2016-07-20 21:36:00 -04:00
+layout: post
 ---
 
 The opposite of bad leadership isn’t anything other than good leadership. Let’s say that differently… The opposite of bad leadership… is good leadership. Nothing else gets you there.
