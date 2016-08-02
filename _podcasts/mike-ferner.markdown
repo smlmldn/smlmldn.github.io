@@ -13,6 +13,8 @@ Also, be sure to listen all the way to the end. I have a few questions for you a
 Mentioned in this episode:
 [Advocates for a Clean Lake Erie
 ](https://www.facebook.com/advocatesforacleanlakeerie/?fref=ts)
-[Toledoans For Safe Water
+[
+Toledoans For Safe Water
 ](https://www.facebook.com/ToledoansForSafeWater/?fref=ts)
-[West Toledo Democratic Club](https://www.facebook.com/westoledodems/)
+[
+West Toledo Democratic Club](https://www.facebook.com/westoledodems/)
