@@ -11,6 +11,8 @@ Today I got a call from Mike Ferner. Mike is a former City Councilman and mayora
 Also, be sure to listen all the way to the end. I have a few questions for you and would love to have you involved in a few projects I am attempting to organize. The common good is a group effort so we need to push it forward together. 
 
 Mentioned in this episode:
-ACLE - https://www.facebook.com/advocatesforacleanlakeerie/?fref=ts
-Toledoans For Safe Water - https://www.facebook.com/ToledoansForSafeWater/?fref=ts
-West Toledo Democratic Club - https://www.facebook.com/westoledodems/
+[Advocates for a Clean Lake Erie
+](https://www.facebook.com/advocatesforacleanlakeerie/?fref=ts)
+[Toledoans For Safe Water
+](https://www.facebook.com/ToledoansForSafeWater/?fref=ts)
+[West Toledo Democratic Club](https://www.facebook.com/westoledodems/)
