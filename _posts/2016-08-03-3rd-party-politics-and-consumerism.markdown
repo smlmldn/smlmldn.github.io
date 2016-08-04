@@ -40,5 +40,4 @@ Because what we want isn’t another option. What we want is a better option. An
 
 We must realize if the current set of options aren’t working for us, another option isn’t the answer. We need to fix, heal, and restore the current set of options. And, that, takes work and will probably require every citizen to lend a hand.
 
-**
-Next week: A list of questions a citizen asks themselves before they vote.** 
+**Next week: A list of questions a citizen asks themselves before they vote.** 
