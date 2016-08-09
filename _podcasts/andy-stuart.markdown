@@ -14,6 +14,7 @@ Mentioned in this episode:
 [Leadership Toledo](http://www.leadershiptoledo.org/)
 
 [TEDxToledo](http://tedxtoledo.com/)
+
 [Rough Draft Diaries](http://www.wgte.org/wgte/listen/index.asp?page_id=2056)
 
 To reach me, email sfmelden@gmail.com
