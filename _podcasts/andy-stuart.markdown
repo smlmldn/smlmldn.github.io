@@ -11,8 +11,9 @@ Today I got a call from Andy Stuart. When I think about clean and safe drinking 
 And, at the end of the episode I talk about self-awareness as a prerequisite to community involvement and about a few things you can be involved over the next few months in this community. The common good is a group effort, and it will take all of us to move the ball forward. 
 
 Mentioned in this episode:
-[Leadership Toledo
-](http://www.leadershiptoledo.org/)[TEDxToledo](http://tedxtoledo.com/)
-[Rough Draft Diaries
-](http://www.wgte.org/wgte/listen/index.asp?page_id=2056)
-(To reach me, email sfmelden@gmail.com)
+[Leadership Toledo](http://www.leadershiptoledo.org/)
+
+[TEDxToledo](http://tedxtoledo.com/)
+[Rough Draft Diaries](http://www.wgte.org/wgte/listen/index.asp?page_id=2056)
+
+To reach me, email sfmelden@gmail.com
