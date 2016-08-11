@@ -83,6 +83,6 @@ Or am I willing to exhibit fidelity to my cause or candidate while challenging t
 What have I ignored in the past?
 Will I ignore it the next time?
 
-I believe the citizen asks these questions and thoughtfully, honestly considers the implications of what they reveal. Give it a shot.
+**I believe the citizen asks these questions and thoughtfully, honestly considers the implications of what they reveal. Give it a shot.**
 
 *(Also, I need to mention, I have amended a previous post to make space for the exception. I was wrong to paint with such a broad stroke, even if to make a point. You can read that [here](http://samuelmelden.com/2016/08/03/3rd-party-politics-and-consumerism/).)*
