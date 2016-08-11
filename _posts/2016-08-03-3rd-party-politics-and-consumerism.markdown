@@ -40,4 +40,6 @@ Because what we want isn’t another option. What we want is a better option. An
 
 We must realize if the current set of options aren’t working for us, another option isn’t the answer. We need to fix, heal, and restore the current set of options. And, that, takes work and will probably require every citizen to lend a hand.
 
+### UPDATE: After several conversations and consideration, I think this post was a bit too one sided. And, while I am comfortable with going to extremes to make a point, I left a few thoughtful citizens behind. There are wonderful, thoughtful people working every day to try to create the party and ideology they want to see to help create the world they want to see. They are absolutely citizens and to concede to voting for a major party would in fact be consumeristic of them. In this way I am thankful for their citizenry. The rest of this post and my larger point still applies to most of the current context in which we find ourselves.
+
 **Next week: A list of questions a citizen asks themselves before they vote.** 
