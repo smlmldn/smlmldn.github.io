@@ -1,6 +1,7 @@
 ---
 title: Ask Yourself...
 date: 2016-08-10 21:20:00 -04:00
+layout: post
 ---
 
 between now & November 8th…
