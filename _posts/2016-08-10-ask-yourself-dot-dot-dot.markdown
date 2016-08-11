@@ -6,30 +6,36 @@ date: 2016-08-10 21:20:00 -04:00
 between now & November 8th…
 
 Why do I vote?
- Is there power in voting?
- Do I take it for granted?
- Do I take it too seriously?
- What do I expect to happen when I vote?
- How will I make sure that it happens after my ballot is cast?
- Are my expectations of this person too high?
- Are my expectations to low?
 
+Is there power in voting?
+
+Do I take it for granted?
+
+Do I take it too seriously?
+
+What do I expect to happen when I vote?
+
+How will I make sure that it happens after my ballot is cast?
+
+Are my expectations of this person too high?
+
+Are my expectations to low?
 
 Where do I get my information?
 Why do I get my information there?
 Have I ever tried to get my information elsewhere?
-Are other people who get their information there exactly like me? 
-Is that a problem? 
+Are other people who get their information there exactly like me?
+Is that a problem?
 
 How would someone of a different race, gender, religion and economic class interact with this election?
 
 What am I afraid of?
-What am I hoping for? 
+What am I hoping for?
 
 What is the role of my president? My senator? My governor? Any of my representatives?
 Am I judging them on their actual job description and jurisdiction or based on my personal expectations for them?
 
-Am I bent on living against something or wiling to live for something? 
+Am I bent on living against something or wiling to live for something?
 
 How else do I voice my opinion and articulate my values in this society?
 Does my electoral vote line up with my everyday vote?
@@ -61,7 +67,7 @@ Is my vote an isolated action or a part of a life aimed in a congruent direction
 
 If it is true that no vote is a perfect solution, am I glossing over the negative sides of my cause or candidate?
 If it is true that no vote is a perfect solution, am I willing to fight against the negative sides of my cause or candidate?
-Is my support conditional? 
+Is my support conditional?
 Or am I willing to exhibit fidelity to my cause or candidate while challenging their short comings?
 
 What have I ignored in the past?
