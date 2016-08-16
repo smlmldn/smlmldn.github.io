@@ -6,7 +6,7 @@ soundcloudID: 278446191
 layout: podcast
 ---
 
-Today I got a call from Warren Henry. Warren has vast work experience throughout his career and in August 2014 was brought in as the new Water Program Manager for the City of Toledo. It is definitely important to talk with politicians and policy makers and dreamers and activists... and sometimes, you need to talk to the one overseeing the nitty, gritty details. 
+Today I got a call from Warren Henry. Warren has vast work experience throughout his career and in August 2014 was brought in as the new Water Program Manager for the City of Toledo. I was excited to have him on the podcast in our 3rd week of talking about water. While it is definitely important to talk with politicians and policy makers and dreamers and activists... and sometimes, you need to talk to the one overseeing the nitty, gritty details. 
 
 When it comes to drinking water in the city of Toledo, Warren Henry is that guy. In this episode we talk about some of the real improvements made to our water system. 
 
