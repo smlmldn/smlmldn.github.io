@@ -1,5 +1,5 @@
 ---
-title: TEDx Toledo
+title: Team TEDxToledo
 date: 2016-09-12 21:58:00 -04:00
 episode: 23
 soundcloudID: 282651306
