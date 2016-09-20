@@ -12,8 +12,11 @@ collections:
   uploads:
     title: Uploads
     output: true
-description: |
-  Sam is the Executive Director at The Center for Servant Leadership, a neighbor & co-organizer with Sylvania Avenue Neighbors, a parishioner at St. Andrew’s Episcopal Church and a proud and passionate citizen of Toledo, OH.
+description: 'Sam is the Executive Director at The Center for Servant Leadership,
+  a neighbor & co-organizer with Sylvania Avenue Neighbors, a parishioner at St. Andrew’s
+  Episcopal Church and a proud and passionate citizen of Toledo, OH.
+
+'
 baseurl: 
 url: http://samuelmelden.com
 permalink: pretty
