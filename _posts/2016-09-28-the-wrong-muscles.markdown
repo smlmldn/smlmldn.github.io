@@ -11,7 +11,9 @@ This reminds me of the current quicksand (election season) in which we find ours
 
 On November 8th a majority of the country will have some sense of hope and optimism that their candidate will win. They have been fighting for their choice and more than ever before, that fight has included complete demonization and dehumanization of the other candidate and their supporters and ideas. 
 
-We have reached a point where most people aren’t for anyone. A majority of our country is against someone. So we spend time in the pre-primary, primary and general election phase of a campaign building up certain muscles that will actually be harmful to the task we all share after the election. On November 8th there will be hope and flexing muscles and acting the way we have prepared to act. And then on November 9th those muscles will no longer be useful, in fact, they will be dangerous to our future together. But by then, it will be too late. Our enemy, that one we have been stealing dignity from for 12 months, will be in the White House and we will have a mental, emotional and political physique that has been sculpted to perpetuate hate and cynicism and distrust. We’ve been working out like crazy, and when it is all “over” the truth is, it has just begun, and half of us won’t have what it takes to handle the task. 
+We have reached a point where most people aren’t for anyone. A majority of our country is against someone. 
+
+So we spend time in the pre-primary, primary and general election phase of a campaign building up certain muscles that will actually be harmful to the task we all share after the election. On November 8th there will be hope and flexing muscles and acting the way we have prepared to act. And then on November 9th those muscles will no longer be useful, in fact, they will be dangerous to our future together. But by then, it will be too late. Our enemy, that one we have been stealing dignity from for 12 months, will be in the White House and we will have a mental, emotional and political physique that has been sculpted to perpetuate hate and cynicism and distrust. We’ve been working out like crazy, and when it is all “over” the truth is, it has just begun, and half of us won’t have what it takes to handle the task. 
 
 So what can we do? 
 
@@ -25,4 +27,4 @@ Resist the urge to workout the anti-muscles of hate and cynicism and distrust.
 
 When we practice being for people and policies and ideas and hopes and dreams, we find that our hope is much more easily transferable to the “other” than trying to reverse our hatred. 
 
-Let’s build up muscles we can use, no matter who wins.
+Let’s build up muscles we can use, no matter who is elected.
