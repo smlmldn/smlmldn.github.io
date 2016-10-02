@@ -5,7 +5,7 @@ date: 2016-10-02 11:57:00 -04:00
 
 ![Screen Shot 2016-10-02 at 11.43.13 AM.png](/uploads/Screen%20Shot%202016-10-02%20at%2011.43.13%20AM.png)
 
-*New column for Toledo Area Parent. Find it [here](http://toledoparent.com), or all over the city in Adams St. Publishing newsstands. 
+### *New column for Toledo Area Parent. Find it [here](http://toledoparent.com), or all over the city in Adams St. Publishing newsstands. 
 
 I love my kitchen table. A few friends of mine made it out of wood used to repair the front porch of our old house. It’s one of those "trendy" farm-style table, but the it was also quite cheap because it was repurposed from an intense building project. It seats around 8-10 people and will be in our house for a long, long time. Recently, my wife and I have been thinking about the role this table plays in our kids lives. 
 
