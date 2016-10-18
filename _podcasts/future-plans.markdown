@@ -1,7 +1,7 @@
 ---
 title: Future Plans
 date: 2016-10-17 22:37:00 -04:00
-'episode #': 27
+episode: 27
 soundcloudID: 288768673
 layout: podcast
 ---
