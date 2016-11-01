@@ -1,6 +1,6 @@
 ---
 title: A few thoughts on Guns to Gardens
-date: 2016-10-31 20:24:00 -04:00
+date: 2016-11-01 08:24:00 -04:00
 soundcloudID: 290901249
 episode: 29
 layout: podcast
