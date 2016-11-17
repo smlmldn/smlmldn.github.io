@@ -2,7 +2,7 @@
 title: 3 Post Election Thoughts
 date: 2016-11-16 20:08:00 -05:00
 soundcloudID: 293402557
-episode#: 32
+episode: 32
 layout: podcast
 ---
 
